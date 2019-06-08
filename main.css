@@ -30,3 +30,9 @@ body {
 <header class="page-header header container-fluid">
 
 </header>
+.header {
+  background-image: url('background.jpg');
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
